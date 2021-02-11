@@ -13,11 +13,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+The dataset we have chosen has information of credit card users. It includes their personal details such as age, gender, educational status, marital status and income. It also includes their credit card details such as credit limit, card category, total months they were inactive, total revolving balance and total transaction amount. On total this dataset contains 13 features. We found this data from an online community called Kaggle. The purpose of this dataset is to solve particular business problem such as to analyze why some customers leave this particular credit card service. Using this dataset we could create a dashboard which could be used to answer many business related questions and prevent problems from happening by providing the customers with better service. 
 
 ## Team Members
 
-- Person 1: one sentence about you!
+- Person 1: Hello I am Rithujaa and I am excited to work on this project.
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
