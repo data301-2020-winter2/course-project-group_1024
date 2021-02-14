@@ -1,1 +1,1 @@
-This Dir. is for Rithujaa's work 
+This Dir is for Rithujaa 
