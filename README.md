@@ -19,7 +19,7 @@ The dataset we have chosen has information of credit card users. It includes the
 
 - Person 1: Hello I am Rithujaa and I am excited to work on this project.
 - Person 2: My name Murad and I know stuff
-- Person 3: one sentence about you!
+- Person 3: Hi I am Sunvat and I am still figuring out a way around doing stuff.
 
 ## References
 
