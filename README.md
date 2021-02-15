@@ -9,7 +9,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+ The topic we have chosen is related to the personal information of 4999 credit card customers of a certain bank. The dataset contains customers' age, gender, income, marital status, and more. The manager of the bank has been complaining about a large number of customers leaving the bank lately. We will analyze all the data and columns given and display several graphs, such as a plot to better visualize the relationship between education level and yearly income, or the education level and the attrition flag. This dataset was chosen, since banks are always interested in data scientists, predicting credit card fraud as well as bankruptcy. It would be great to gain an experience in this simpler task, before moving to harder ones.
 
 ## Describe your dataset in about 150-200 words
 
@@ -18,7 +18,7 @@ The dataset we have chosen has information of credit card users. It includes the
 ## Team Members
 
 - Person 1: Hello I am Rithujaa and I am excited to work on this project.
-- Person 2: one sentence about you!
+- Person 2: My name Murad and I know stuff
 - Person 3: one sentence about you!
 
 ## References
