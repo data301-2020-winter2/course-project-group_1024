@@ -23,4 +23,4 @@ The dataset we have chosen has information of credit card users. It includes the
 
 ## References
 
-https://www.kaggle.com/sakshigoyal7/credit-card-customers
+We got this dataset from [Kaggle](https://www.kaggle.com/sakshigoyal7/credit-card-customers).
