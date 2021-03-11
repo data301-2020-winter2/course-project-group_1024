@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-def load_and_process(url_or_path_to_csv_file):
+def load_and_process(path):
 
     # Method Chain 1 (Load data and deal with missing data)
     df1 = (
