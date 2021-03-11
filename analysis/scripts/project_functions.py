@@ -15,10 +15,7 @@ def load_and_process(path):
           .drop('index', axis = 1)
      )
 
+    return df1
+
     # Method Chain 2 (Create new columns, drop others, and do processing)
 
-    df2 = (
-          df1
-          .assign(...)
-      )
-    return df2 
